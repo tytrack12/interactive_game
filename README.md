@@ -48,5 +48,5 @@ Ce projet peut servir en :
 1. **Télécharge ou clone le projet :**
 
 ```bash
-git clone https://github.com/ton-utilisateur/ton-depot.git
+git clone https://github.com/tytrack12/interactive_game.git
 cd ton-depot
