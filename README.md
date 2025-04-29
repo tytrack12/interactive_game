@@ -49,4 +49,4 @@ Ce projet peut servir en :
 
 ```bash
 git clone https://github.com/tytrack12/interactive_game.git
-cd ton-depot
+cd interactive_game
